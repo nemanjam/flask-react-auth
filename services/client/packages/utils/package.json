@@ -5,7 +5,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "dev": "pnpm build --watch",
+    "dev": "yarn build --watch",
     "build": "rm -fr dist/* && tsc",
     "lint": "TIMING=1 eslint \"**/*.{ts,tsx,js,jsx}\" --fix",
     "clean": "rm -rf ./dist && rm -rf .turbo"
