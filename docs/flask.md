@@ -35,5 +35,5 @@ https://github.com/yoshi-68/nextjs-fastapi-starter
 
 ## Next.js
 
-- hooks lib, animation lib, twMerge, clsx, headless ui, turborepo
+- hooks lib, animation lib, twMerge, clsx, headless ui - radix ui, turborepo
 
