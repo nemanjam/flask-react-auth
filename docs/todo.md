@@ -20,4 +20,5 @@ https://github.com/vercel/turbo/tree/main/examples/with-yarn
 - with-yarn, pa dodaj delove with-tailwind...
 
 - .vscode folder, extensions and formatting, comments, separators
-  prettier for ts, flake for python
+- prettier for ts, flake for python
+- shadcn for workspaces and turborepo
