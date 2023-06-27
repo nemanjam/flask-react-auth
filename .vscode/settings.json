@@ -1,0 +1,10 @@
+{
+  // Tell VSCode to format files on save
+  "editor.formatOnSave": true,
+  // Tell VSCode to use Prettier as default file formatter
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // Recommended config for the extension
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false
+}
